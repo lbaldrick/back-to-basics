@@ -1,0 +1,30 @@
+[
+  {
+    "Id": 1111,
+    "Date-Time": 1499620832,
+    "Item-Name": "Nintendo 3DS",
+    "Bid": 98.90,
+    "Winning-Bid": 98.90
+  },
+  {
+    "Id": 12233,
+    "Date-Time": 1499620832,
+    "Item-Name": "Xbox One",
+    "Bid": 98.90,
+    "Winning-Bid": 198.90
+  },
+  {
+    "Id": 13445,
+    "Date-Time": 1499620832,
+    "Item-Name": "Nintendo 3DS Game",
+    "Bid": 8.90,
+    "Winning-Bid": 8.90
+  },
+  {
+    "Id": 12343,
+    "Date-Time": 1499620832,
+    "Item-Name": "Nintendo 3DS",
+    "Bid": 115,
+    "Winning-Bid": 180
+  }
+]

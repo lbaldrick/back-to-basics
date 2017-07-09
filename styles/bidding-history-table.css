@@ -1,0 +1,12 @@
+.bidding-history-table td,
+.bidding-history-table th {
+    text-align: left;
+}
+
+.bidding-history-table tr:nth-child(even) {
+    background-color: #e4e49e;
+}
+
+.bidding-history-table tr:first-child {
+    background-color: #dcdcdc;
+}
